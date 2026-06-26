@@ -16,7 +16,7 @@ This repository reads live Polymarket prices and **simulates** the same entry/ex
 
 These are real on-chain transactions from [@antsaslyku](https://polymarket.com/@antsaslyku) on Polygon. Each pair shows the same pattern the bot follows: **buy the favorite late in the window → redeem at $1.00 after resolution**.
 
-
+![Polymarket Activity](doc/activity.png)
 
 ### Trade 1 — Jun 11, 2026 · ~$0.99 entry
 
