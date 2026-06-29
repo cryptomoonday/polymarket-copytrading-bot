@@ -109,9 +109,9 @@ The bot supports multiple tracked wallets simultaneously while ensuring configur
 ### 1. Install
 
 ```bash
-git clone https://github.com/trum3it/polymarket-copy-trading-bot.git
+git clone https://github.com/trum3it/polymarket-copytrading-bot.git
 
-cd polymarket-copy-trading-bot
+cd polymarket-copytrading-bot
 
 npm install
 ```
