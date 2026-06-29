@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@polymarket/clob-client": "^5.2.1",
-    "clob-client-math": "^1.0.0",
+    "clob-client-math": "^1.0.1",
     "dotenv": "^16.4.5",
     "ethers": "^5.7.2"
   },
