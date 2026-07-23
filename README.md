@@ -30,7 +30,7 @@ Copy trading works on any public Polymarket category your leaders trade. Tooling
 | **World / Other** | Conflict timelines, science, custom event contracts | Multi-wallet portfolios by niche |
 
 <!-- IMAGE PLACEHOLDER: 8-category markets grid for copy trading (politics/sports/weather/crypto/…). Suggested file: doc/markets-grid.png -->
-<!-- ![Markets we serve](doc/markets-grid.png) -->
+![Markets we serve](doc/markets-grid.png)
 
 ---
 
@@ -46,7 +46,7 @@ Copy trading works on any public Polymarket category your leaders trade. Tooling
 - **Consulting** on leader selection, VPS/RPC, wallet setup, and risk budgets
 
 <!-- IMAGE PLACEHOLDER: Services pipeline — You → Watch leaders → Filter → Size → Execute → Exit/TP-SL. Suggested file: doc/services-pipeline.png -->
-<!-- ![Services pipeline](doc/services-pipeline.png) -->
+![Services pipeline](doc/services-pipeline.png)
 
 If you want a **single-leader** copier or a **multi-wallet portfolio** across Polymarket verticals, reach out on Telegram: [@cryptomoonday23](https://t.me/cryptomoonday23) or Discord: **cryptomoonday**.
 
@@ -89,7 +89,7 @@ Polymarket is public and on-chain — wallet activity is visible. Copy bots turn
 | 15 | **Dust / Min-Trade Filter Copy** | Anti-noise | Ignore tiny leader trades that waste fees |
 
 <!-- IMAGE PLACEHOLDER: Strategy catalog visual — 15 copy-strategy tiles. Suggested file: doc/strategy-catalog.png -->
-<!-- ![Strategy catalog](doc/strategy-catalog.png) -->
+![Strategy catalog](doc/strategy-catalog.png)
 
 ---
 
