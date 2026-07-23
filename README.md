@@ -109,7 +109,7 @@ Public live account:
 **https://polymarket.com/@moond**
 
 <!-- IMAGE PLACEHOLDER: Contact CTA — Telegram @cryptomoonday23 + Discord cryptomoonday + Polymarket @moond. Suggested file: doc/contact-cta.png -->
-<!-- ![Contact CTA](doc/contact-cta.png) -->
+![Contact CTA](doc/contact-cta.png)
 
 ---
 
@@ -142,14 +142,8 @@ These screenshots show the copy loop in practice: a **target wallet** trades, an
 
 Live dashboard growth and copy activity across markets (including sports / event markets):
 
-![Past day profit/loss](doc/1_day_pnl.png)
-
-![Past week profit/loss](doc/1_week_pnl.png)
-
-![Past month profit/loss](doc/1_month_pnl.png)
-
 <!-- IMAGE PLACEHOLDER: @moond profile overview if used for copy desk. Suggested file: doc/moond-profile.png -->
-<!-- ![@moond profile](doc/moond-profile.png) -->
+![@moond profile](doc/moond-profile.png)
 
 Trade history includes repeated mirrored entries across sports, crypto, politics, and event markets — followed through to settlement or rule-based exits.
 
@@ -186,7 +180,7 @@ Whenever a tracked wallet opens (or closes) a position:
 6. Continue until exit (mirrored or independent)
 
 <!-- IMAGE PLACEHOLDER: Architecture diagram of the copy loop above. Suggested file: doc/architecture-stack.png -->
-<!-- ![Copy architecture](doc/architecture-stack.png) -->
+![Copy architecture](doc/architecture-stack.png)
 
 ---
 
@@ -280,14 +274,14 @@ Featured approach: **size determination + optional TPSL**, not pure blind exit i
 Follow election / legislation specialists; use nested-event conviction filters; skip dust; prefer selective signal copy around polls and breaking news.
 
 <!-- IMAGE PLACEHOLDER: Politics leader board + copy alert. Suggested file: doc/politics-copy.png -->
-<!-- ![Politics copy](doc/politics-copy.png) -->
+![Politics copy](doc/politics-copy.png)
 
 ### Sports
 
 Category-filter to sports wallets; optional late-game / live-only time windows; size to book depth; independent TP/SL during chaotic live minutes.
 
 <!-- IMAGE PLACEHOLDER: Sports target trade + mirrored bot fill. Suggested file: doc/sports-copy.png -->
-<!-- ![Sports copy](doc/sports-copy.png) -->
+![Sports copy](doc/sports-copy.png)
 
 ### Weather
 
@@ -332,7 +326,7 @@ This project helps traders get real **Polymarket copy trading bot tools and serv
 Telegram: [@cryptomoonday23](https://t.me/cryptomoonday23) · Discord: **cryptomoonday**
 
 <!-- IMAGE PLACEHOLDER: Closing CTA — “Copy Smart Money Across Every Polymarket Category”. Suggested file: doc/closing-cta.png -->
-<!-- ![Closing CTA](doc/closing-cta.png) -->
+![Closing CTA](doc/closing-cta.png)
 
 ---
 
